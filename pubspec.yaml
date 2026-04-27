@@ -37,6 +37,8 @@ dependencies:
   flutter_local_notifications: ^21.0.0
   timezone: ^0.11.0
   shared_preferences: ^2.5.5
+  android_alarm_manager_plus: ^5.0.0
+  telephony: ^0.2.0
 
 dev_dependencies:
   flutter_test:
